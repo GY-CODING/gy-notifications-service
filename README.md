@@ -1,4 +1,4 @@
-# Repository Title
+# GY Notifications
 
 ![version](https://img.shields.io/badge/version-0.0.0-gold?style=for-the-badge)
 [![developer](https://img.shields.io/badge/developed-GYCODING-B833FF?style=for-the-badge)](https://gycoding.com)
@@ -8,13 +8,16 @@
 
 ## Introduction
 
-Brief description of this project.
+This is the official **GY Notifications** service used by **GYCODING** for external communications via email, SMS, Webhooks, or WebSockets.
 
 <br>
 
 ## How it was made
 
-Description of the technologies and procedures used to develop this project.
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+This API REST uses **Spring Web**. For the deployment, **Docker** is being used along with **Koyeb** for the hosting.
 
 <br>
 
