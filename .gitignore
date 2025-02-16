@@ -242,4 +242,7 @@ lint/tmp/
 # Android Profiling
 *.hprof
 
-# End of https://mrkandreev.name/snippets/gitignore-generator/#Java,Swift,react,Kotlin,Android
+# GYCODING Additions
+
+.env
+.idea

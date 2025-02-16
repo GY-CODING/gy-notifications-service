@@ -64,7 +64,7 @@ COPY --from=build /app/target/*.jar ./gy-accounts.jar
 RUN chmod 777 /app/gy-notifications.jar
 
 # Expose the port on which the application will run
-EXPOSE 8002
+EXPOSE 8005
 
 # Set the command to run the application
 CMD ["java", "-jar", "gy-notifications.jar"]
