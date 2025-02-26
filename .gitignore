@@ -246,3 +246,4 @@ lint/tmp/
 
 .env
 .idea
+/.idea/
